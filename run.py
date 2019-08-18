@@ -1,4 +1,6 @@
-#coding 
+# PLease Don't Recode My program because i take a long time to complete this project
+# Copyright© 2019 By Fajar Firdaus
+
 from core import module
 from core.search_engine import *
 from core.wiki import *
